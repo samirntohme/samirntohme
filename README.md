@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Samir Tohme, and I'm a computational scientist, specializing in product development, quantum computing, and optical engineering, currently based in the United States.</p>
+<p align="left">My name is Samir Tohme, and I'm a computational scientist, specializing in product development, quantum computing, and optical engineering, based in the United States.</p>
 
 ###
 
